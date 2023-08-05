@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "194736082790",
+    "project_id": "fp-healtrevamp",
+    "storage_bucket": "fp-healtrevamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194736082790:android:d2dd7ededcc863b050c2a7",
+        "android_client_info": {
+          "package_name": "com.henpasin.FPMobileClient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194736082790-denf1nsv4afg1j7tfdh8cvngih02e1ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.henpasin.FPMobileClient",
+            "certificate_hash": "2c0b26324ec03bcaac6da691bf5bb7ddfc447e86"
+          }
+        },
+        {
+          "client_id": "194736082790-s77tftggcjbblvv0qri0smfrh8dqcm1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.henpasin.FPMobileClient",
+            "certificate_hash": "ea8f93a11647712167b175ee65a239f87688343e"
+          }
+        },
+        {
+          "client_id": "194736082790-82edn0uc8d5iv6obelvn2ihc518mlk2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewDYpJZcDIrsA9bnw0UpsJXrHs_YDalE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194736082790-82edn0uc8d5iv6obelvn2ihc518mlk2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
